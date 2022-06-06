@@ -22,7 +22,9 @@ Este repositório servirá para armazenar os códigos-fonte utilizados no projet
 LeonardoSSantana é uma Landpage Pessoal que tem por objetivo a criação de um portfólio profissional, a fim de demonstrar os conhecimentos e projetos elaborados, conectar os clientes que desejam entrar em contato para o desenvolvimento de seus projetos.
 
 ## Endereço da aplicação
-http:..................
+https://leonardossantana.orgfree.com/
+https://leonardossantana.000webhostapp.com/index.html 
+
 
 
 ## Projetos utilizados como inspiração
